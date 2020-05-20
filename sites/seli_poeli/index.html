@@ -6,21 +6,6 @@
 	<title>Собственный бизнес с франшизой гриль-баров "Сели-поели"</title>
 	<link rel="stylesheet" href="style.css">
 	<link rel="stylesheet" href="global.css">
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-	<script src="http://code.jquery.com/ui/1.9.1/jquery-ui.js"></script>
-	<script src="js/slides.min.jquery.js"></script>
-	<script>
-		$(function(){
-			$('#slides').slides({
-				preload: true,
-				preloadImage: 'images/loading.gif',
-				play: 5000,
-				pause: 2500,
-				hoverPause: true
-			});
-		});
-	</script>
-	
 </head>
 <body>	
 	<header>
@@ -343,6 +328,20 @@
 			</div>
 		</div>
 		<div id="top"></div>
+		<script src="./js/jquery.min.js"></script>
+		<script src="./js/jquery-ui.min.js"></script>
+		<script src="./js/slides.min.jquery.js"></script>
+		<script>
+			$(function () {
+				$('#slides').slides({
+					preload: true,
+					preloadImage: 'images/loading.gif',
+					play: 5000,
+					pause: 2500,
+					hoverPause: true
+				});
+			});
+		</script>
 		<script type = "text/javascript">
 			jQuery(window).scroll(function() {
 			    if (jQuery(this).scrollTop()>0)
