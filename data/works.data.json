@@ -13,8 +13,8 @@
   {
     "title": "Тестовое задание от SkyNet",
     "url": "",
-    "github": "",
-    "demo": "/sites/skynet_test/",
+    "github": "https://github.com/denlaps/skynet_test",
+    "demo": "https://areal-tech.000webhostapp.com/skynet-test/",
     "img": "/photos/skynet_test.jpg",
     "meta": {
       "employer": "SkyNet",
@@ -26,8 +26,7 @@
   {
     "title": "Интерфейс парсинга акций для генератора рассылки",
     "url": "",
-    "github": "https://github.com/denlaps/",
-    "demo": "/sites/letterGen/",
+    "github": "https://github.com/denlaps/newsParser",
     "img": "/photos/saturn_letterGen.jpg",
     "meta": {
       "employer": "Сатурн Строймаркет",
@@ -95,19 +94,19 @@
       "year": 2019,
       "tech": ["html5", "css3", "photoshop", "gulp", "sass", "bem", "jq"]
     },
-    "description": "Верстка десктопной версии интернет магазина Frimis."
+    "description": "Верстка десктопной версии интернет магазина Frimis. Все страницы сайта расположены в верхнем меню."
   },
   {
     "title": "Мобильная версия Frimis",
     "url": "",
-    "demo": "/sites/frimis_desk/",
+    "demo": "/sites/frimis_mobile/",
     "img": "/photos/frimis_mob.jpg",
     "meta": {
       "employer": "Frimis",
       "year": 2019,
       "tech": ["html5", "css3", "photoshop", "gulp", "sass", "bem", "jq"]
     },
-    "description": "Верстка мобильной версии интернет магазина Frimis."
+    "description": "Верстка мобильной версии интернет магазина Frimis. Все страницы сайта можно посмотреть в бургер-меню."
   },
   {
     "title": "Тестовое задание для Сатурна",
@@ -148,7 +147,7 @@
   {
     "title": "Автомое",
     "url": "https://avtomoe43.ru",
-    "demo": "/sites/avtomoe/",
+    "demo": "/sites/avtomoe43/",
     "img": "/photos/avtomoe.jpg",
     "meta": {
       "employer": "5agency",
@@ -172,7 +171,7 @@
   {
     "title": "Франшиза Сели-Поели",
     "url": "",
-    "demo": "/sites/franchise_blogery/",
+    "demo": "/sites/seli_poeli/",
     "img": "/photos/selipoeli.jpg",
     "meta": {
       "employer": "Сели-Поели",
