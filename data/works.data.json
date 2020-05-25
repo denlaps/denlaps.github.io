@@ -1,5 +1,17 @@
 [
   {
+    "title": "Нативный слайдовый скролл",
+    "url": "",
+    "demo": "/sites/slidePages/",
+    "github": "https://github.com/denlaps/slidePages",
+    "img": "/photos/slidePages.jpg",
+    "meta": {
+      "year": 2020,
+      "tech": ["html5", "css3", "js", "gulp", "sass", "bem"]
+    },
+    "description": "Тестовое задание со скроллом наподобие слайдов в презентации на нативном JS."
+  },
+  {
     "title": "Сайт-портфолио",
     "url": "https://denlaps.github.io",
     "github": "https://github.com/denlaps/portfolio",
